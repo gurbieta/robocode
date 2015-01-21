@@ -10,13 +10,12 @@ import robocode.HitWallEvent;
 import robocode.Robot;
 import robocode.Rules;
 import robocode.ScannedRobotEvent;
-import robocode.control.events.TurnStartedEvent;
 
 /**
  * @author gurbieta
  * @date Jan 21, 2015
  */
-public class Gurbieta1 extends Robot {
+public class Nisman extends Robot {
 
 	Map<String, String>	name	= new HashMap<String, String>();
 
