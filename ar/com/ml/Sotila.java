@@ -39,6 +39,7 @@ public class Sotila extends Robot
 	public void onHitRobot(HitRobotEvent event) {
 		if(event.isMyFault()){
 			fire(10);
+			ahead(5);
 		}else{
 			turnRight(15);
 			ahead(50);
@@ -66,3 +67,4 @@ public class Sotila extends Robot
 	}
 
 }
+
