@@ -1,12 +1,15 @@
 # robocode
 Robocode group
 
-La idea es que cada tanto nos juntemos después del laburo para hacer tanques con robocode e ir mejorándolos en cada juntada.
+The idea is to gather together after work to make tanks with robocode and improve every time we meet.
 
 <h1>Setup</h1>
 
-Se bajan este jar (https://sourceforge.net/projects/robocode/files/latest/download?source=files), lo corren con java y se los instala en la carpeta que elijan, luego corran el robocode.sh y les levanta el robocode
+Download robocode jar - https://sourceforge.net/projects/robocode/files/latest/download?source=files
+Run the jar to install robocode.
+Run robocode.sh
+To add your bots, copy the class files inside your robocodeInstallationPath/robots, maintaining the package structure
 
 TODO:
-Definir si vamos a competir de forma individual, por equipos o ambas.
-Que sistema de puntos vamos a usar para el ranking.
+Competition styles, individual/team, both?
+Points and ranking system.
